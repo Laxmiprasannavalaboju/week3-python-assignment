@@ -1,0 +1,4 @@
+This is the first file.
+I am learning Python.
+This is the second file.
+I am practicing file handling.
